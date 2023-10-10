@@ -13,7 +13,7 @@ Go to the webpage and you will be able to see my class notes on several of the t
 
 ## Credits
 
-Tutorial used: https://bootcampspot.instructure.com
+N/A
 
 ## License
 
